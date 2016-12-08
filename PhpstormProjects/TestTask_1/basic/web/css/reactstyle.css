@@ -1,0 +1,9 @@
+#table_posts {
+    width: 100%;
+}
+#table_posts th {
+    padding: 5px;
+}
+#table_posts td {
+    padding: 5px;
+}
